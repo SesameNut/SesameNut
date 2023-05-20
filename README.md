@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SesameNut
-- 🌱 I’m currently a student in acoustics
-- 💞️ I’m looking to learn this code versioning tool
+- 🌱 I’m currently a student
+- 💞️ I’m looking to learn how to use code versioning 
 - 📫 How to reach me ...
 
 <!---
